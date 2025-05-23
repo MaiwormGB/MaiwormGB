@@ -1,7 +1,12 @@
-## Hi there 👋
+## (O) Eai, Bem vindo/a ao meu Github 
+
+# Meu nome é Gabriel Marques Maiworm
+<span style="color:purple">(Só maiworm ja ta bom tambem).</span>  
+
+
+
 
 <!--
-**MaiwormGB/MaiwormGB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
