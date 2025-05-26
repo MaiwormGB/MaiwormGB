@@ -9,13 +9,13 @@ mas só `Maiworm` ta bom tambem 👍
 - Conhecimentos variados na area de sistemas, rede, e programação
 
 # Conhecimentos 🔍
-![Divisão](https://img.shields.io/badge/HTML-Intermediario-white?style=for-the-badge&labelColor=blue)
+![Divisão](https://img.shields.io/badge/HTML-Intermediario-white?style=for-the-badge&labelColor=green)
 
-![Divisão](https://img.shields.io/badge/CSS-Intermediario-white?style=for-the-badge&labelColor=blue)
+![Divisão](https://img.shields.io/badge/CSS-Intermediario-white?style=for-the-badge&labelColor=red)
 
-![Divisão](https://img.shields.io/badge/JavaScrip-Iniciante-white?style=for-the-badge&labelColor=blue)
+![Divisão](https://img.shields.io/badge/JavaScrip-Iniciante-white?style=for-the-badge&labelColor=orange)
 
-![Divisão](https://img.shields.io/badge/Python-Iniciante-white?style=for-the-badge&labelColor=blue)
+![Divisão](https://img.shields.io/badge/Python-Iniciante-white?style=for-the-badge&labelColor=yellow)
 
 <!--
 
