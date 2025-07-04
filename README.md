@@ -11,11 +11,22 @@ mas só `Maiworm` ta bom tambem 👍
 # Conhecimentos 🔍
 ![Divisão](https://img.shields.io/badge/HTML-Intermediario-white?style=for-the-badge&labelColor=green)
 
-![Divisão](https://img.shields.io/badge/CSS-Intermediario-white?style=for-the-badge&labelColor=red)
+![Divisão](https://img.shields.io/badge/CSS-Intermediario-white?style=for-the-badge&labelColor=blue)
 
 ![Divisão](https://img.shields.io/badge/JavaScrip-Iniciante-white?style=for-the-badge&labelColor=orange)
 
 ![Divisão](https://img.shields.io/badge/Python-Iniciante-white?style=for-the-badge&labelColor=yellow)
+
+![Divisão](https://img.shields.io/badge/SQL-Iniciante-white?style=for-the-badge&labelColor=darkgreen)
+
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .floating { animation: float 3s ease-in-out infinite; }
+    @keyframes float {
+      0% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
+      100% { transform: translateY(0); }
+    }
 
 <!--
 
